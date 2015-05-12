@@ -1,6 +1,6 @@
 {
   "name": "test-aaa",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Arrange, Act, Assert because nobody likes messy tests.",
   "main": "index.js",
   "scripts": {
