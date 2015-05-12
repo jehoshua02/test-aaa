@@ -1,5 +1,7 @@
 # Test AAA
 
+[![Build Status](https://travis-ci.org/jehoshua02/test-aaa.svg)](https://travis-ci.org/jehoshua02/test-aaa)
+
 Arrange, Act, Assert because nobody likes messy tests.
 
 
